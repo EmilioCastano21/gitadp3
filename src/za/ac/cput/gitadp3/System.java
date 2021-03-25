@@ -10,4 +10,8 @@ public class System {
         if(str == null || str.isEmpty()) return 0;
         return str.length();
     }
+
+    public static void main(String[] args) {
+        System.out.println("GIT baby");
+    }
 }
